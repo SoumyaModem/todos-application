@@ -1,0 +1,21 @@
+li {
+  list-style: none;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+p {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.button {
+  color: #ff0b37;
+  border-color: #ff0b37;
+  font-family: Roboto;
+  border-radius: 3px;
+  border-width: 1px;
+  padding: 5px;
+}
